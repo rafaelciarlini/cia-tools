@@ -1,0 +1,5 @@
+setup.py
+cia_tools.egg-info/PKG-INFO
+cia_tools.egg-info/SOURCES.txt
+cia_tools.egg-info/dependency_links.txt
+cia_tools.egg-info/top_level.txt
